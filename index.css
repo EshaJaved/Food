@@ -1,0 +1,42 @@
+.nav{
+	display: flex;
+    justify-content: space-between;
+    background-color: pink;
+}
+.items ul {
+	 display: flex;
+
+
+}
+.items ul li{
+	margin-left: 50px;
+	display: block;
+	text-decoration: none;
+}
+h1{
+	padding: 80px;
+	margin-left: 33%;
+	margin-top: 10%;
+	font-size: 60px;
+	
+
+
+}
+ p{
+ 	 
+ 	margin-left: 20%;
+ 	margin-right: 20%;
+ 	font-size: 20px;
+
+
+ }
+ .box form{
+ 	margin-left: 38%
+
+ }
+ body{
+ 	background-image: url(mypic.jpg);
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+ }
